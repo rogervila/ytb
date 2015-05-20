@@ -1,7 +1,9 @@
 # ytb
 **async youtube iframe javascript plugin**
 
-**ytb** loads a thumbnail with a play button of a youtube video. When you click to play, it loads the youtue video iframe, so it speeds up your website. 
+**ytb** loads a thumbnail with a play button of a youtube video. When you click to play, it loads the youtue video iframe, so it speeds up your website.
+
+Here you have some examples: http://rogervila.github.io/ytb/
 
 ##install
 Is written in **Pure javascript**, you don't need jQuery or other libraries.

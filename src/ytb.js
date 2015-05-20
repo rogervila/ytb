@@ -1,5 +1,7 @@
 /**
- * 
+ * YTB, async youtube iframe javascript plugin
+ * (c) 2015. Created by Roger Vilà. http://rogervila.es
+ * MIT License
  */
 (function() {
 

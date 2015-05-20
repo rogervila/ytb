@@ -34,6 +34,9 @@ Is written in **Pure javascript**, you don't need jQuery or other libraries.
 
 License
 ----
-Created by [Roger Vilà] (Follow me on [Twitter])
+Created by [Roger Vilà]. Follow me on [Twitter]
 
 MIT License
+
+[Roger Vilà]:http://rogervila.es
+[Twitter]:http://twitter.com/_rogervila
